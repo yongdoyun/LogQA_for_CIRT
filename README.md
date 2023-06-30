@@ -41,6 +41,10 @@ Install the required Python libraries by running the following command:
 Copy code
 pip install -r requirements.txt
 
+- RayStation 11B was validated.
+- external lib
+- 
+
 ## Usage
 
 Open the RayStation scripting programming Python environment.
