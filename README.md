@@ -42,8 +42,7 @@ Copy code
 pip install -r requirements.txt
 
 - RayStation 11B was validated.
-- external lib
-- 
+- external lib (pydicom, pymedphys, numpy, scipy)
 
 ## Usage
 
