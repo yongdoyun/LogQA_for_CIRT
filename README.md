@@ -38,11 +38,11 @@ pip install -r requirements.txt
 
 ## Usage
 
-Open the RayStation scripting programming environment.
-Load the program file (log_based_qa.py) into the scripting environment.
-Modify the program parameters and settings as needed for your specific QA requirements.
-Run the program by executing the main script.
-Detailed instructions on program usage, including parameter customization and interpreting the results, can be found in the documentation provided within the repository.
+Open the RayStation scripting programming environment.  
+Load the program file (log_based_qa.py) into the scripting environment.  
+Modify the program parameters and settings as needed for your specific QA requirements.  
+Run the program by executing the main script.  
+Detailed instructions on program usage, including parameter customization and interpreting the results, can be found in the documentation provided within the repository.  
 
 ## License
 
