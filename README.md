@@ -38,7 +38,7 @@ Install the required Python libraries by running the following command:
 
 ## Usage
 - Open the RayStation scripting programming environment.  
-- Load the program file (log_based_qa.py) into the scripting environment.  
+- Load the program file (LogQA_for_CIRT_*.py) into the scripting environment.  
 - Modify the program parameters and settings as needed for your specific QA requirements.  
 - Run the program by executing the main script.
   
