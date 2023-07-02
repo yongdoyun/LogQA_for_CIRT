@@ -44,7 +44,8 @@ Schematic diagram of the developed program is as follows:
 - Load the program file (log_based_qa.py) into the scripting environment.  
 - Modify the program parameters and settings as needed for your specific QA requirements.  
 - Run the program by executing the main script.
-![schematic diagram](https://github.com/yongdoyun/LogQA_for_CIRT/assets/76243091/4c048ab2-8a3a-4935-8716-f66b154e15a9)
+  
+![demo](https://github.com/yongdoyun/LogQA_for_CIRT/assets/76243091/c8f423ae-732d-4776-94fd-ba4b253f56c8)
 - After log data is loaded, click the DQA calculation button.
 
 ## License
