@@ -37,12 +37,15 @@ Install the required Python libraries by running the following command:
 `pip install -r requirements.txt`
 
 ## Usage
+Schematic diagram of the developed program is as follows:  
+![schematic diagram](https://github.com/yongdoyun/LogQA_for_CIRT/assets/76243091/67d58a81-b0c1-4b53-9181-fbe7ea517e95)
 
 - Open the RayStation scripting programming environment.  
 - Load the program file (log_based_qa.py) into the scripting environment.  
 - Modify the program parameters and settings as needed for your specific QA requirements.  
-- Run the program by executing the main script.  
-- Detailed instructions on program usage, including parameter customization and interpreting the results, can be found in the documentation provided within the repository.  
+- Run the program by executing the main script.
+![schematic diagram](https://github.com/yongdoyun/LogQA_for_CIRT/assets/76243091/4c048ab2-8a3a-4935-8716-f66b154e15a9)
+- After log data is loaded, click the DQA calculation button.
 
 ## License
 
