@@ -27,7 +27,7 @@ Comparison with Treatment Plan: The program compares the log data with the treat
 
 To run this program, you need the following:
 
-RayStation 11B was tested.
+RayStation 11B was tested.  
 Required Python libraries (specified in the requirements.txt file; pydicom, pymedphys, numpy, scipy))
 
 ## Installation
