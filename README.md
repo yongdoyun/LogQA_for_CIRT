@@ -32,8 +32,8 @@ Required Python libraries (specified in the requirements.txt file; pydicom, pyme
 
 ## Installation
 
-Clone this repository to your local machine or download the source code as a ZIP file.
-Install the required Python libraries by running the following command:
+Clone this repository to your local machine or download the source code as a ZIP file.  
+Install the required Python libraries by running the following command:  
 pip install -r requirements.txt
 
 ## Usage
