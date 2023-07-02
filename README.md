@@ -9,7 +9,7 @@ Table of Contents
 3. Requirements
 4. Installation
 5. Usage
-7. License
+6. License
 
 ## Introduction
 
@@ -37,9 +37,6 @@ Install the required Python libraries by running the following command:
 `pip install -r requirements.txt`
 
 ## Usage
-Schematic diagram of the developed program is as follows:  
-![schematic diagram](https://github.com/yongdoyun/LogQA_for_CIRT/assets/76243091/67d58a81-b0c1-4b53-9181-fbe7ea517e95)
-
 - Open the RayStation scripting programming environment.  
 - Load the program file (log_based_qa.py) into the scripting environment.  
 - Modify the program parameters and settings as needed for your specific QA requirements.  
@@ -50,4 +47,8 @@ Schematic diagram of the developed program is as follows:
 
 ## License
 
-This program is licensed under the MIT License. Feel free to modify, distribute, and use it in your projects.
+This program is licensed under the MIT License. Feel free to modify, distribute, and use it in your projects.  
+
+--- 
+
+A research paper is currently being prepared for publication on the application and validation of this program. The paper will be added once it is published.
