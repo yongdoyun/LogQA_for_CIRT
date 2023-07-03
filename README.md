@@ -27,8 +27,8 @@ This program has been developed using RayStation scripting programming, which is
 
 To run this program, you need the following:
 
-RayStation 11B was tested.  
-Required Python libraries (specified in the requirements.txt file; pydicom, pymedphys, numpy, scipy))
+- RayStation (Version 11B was tested).
+- Required Python libraries (specified in the requirements.txt file; pydicom, pymedphys, numpy, scipy))
 
 ## Installation
 
